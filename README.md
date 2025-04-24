@@ -1,19 +1,8 @@
 # Data Scientist
 
-**[LinkedIn](https://www.linkedin.com/in/ibrahim-ismaila-6b2b5768) • [GitHub](https://github.com/EngrIBGIT) • 📧 ibrahim5322022@hotmail.com | ibrahim5322022@outlook.com • 📱 +234 8035621381**
-
-## 📚 Education
-
-**M.Eng. Civil Engineering (Highway and Transportation Engineering)**  
-*Nile University of Nigeria, Abuja — 2024*
-
-**B.Eng. Civil Engineering**  
-*Ahmadu Bello University, Zaria — 2011*                                   2011 - Ahmadu Bello University, Zaria
-
-
+**[LinkedIn](https://www.linkedin.com/in/ibrahim-ismaila) • [GitHub](https://github.com/EngrIBGIT) • 📧 ibrahim5322022@hotmail.com | ibrahim5322022@outlook.com • 📱 +234 8035621381**
 
 ---
-
 ## 📚 Education
 
 **M.Eng. Civil Engineering (Highway and Transportation Engineering)**  
@@ -21,7 +10,6 @@
 
 **B.Eng. Civil Engineering**  
 *Ahmadu Bello University, Zaria — 2011*
-
 ---
 
 ## 💼 Work Experience
@@ -50,7 +38,6 @@
 - Built BI dashboards in Power BI, Looker Studio, and Tableau.
 - Ensured data integrity using PostgreSQL, MySQL, and BigQuery.
 - Delivered insights that drove real-time business decisions.
-
 ---
 
 ## 🚀 Projects
@@ -111,10 +98,7 @@ Python (Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch) • GCP • Airflow �
 - Fluent in English
 - Excellent written and verbal communication
 - Effective in fast-paced and remote environments
-- Passionate about continuous learning in AI/ML
+- Passionate about continuous Development in AI/ML
 
 ---
-
-## 📎 References
-
-Available upon request.
+C/O Ibrahim Ismaila || [GitHub](https://github.com/EngrIBGIT) 2024

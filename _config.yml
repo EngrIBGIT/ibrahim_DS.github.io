@@ -2,7 +2,8 @@ title: Ibrahim Ismaila
 logo: /assets/img/ibrahim.jpg
 #description: text_below_image
 show_downloads: true
-theme: jekyll-theme-minima
+theme: minima
+#theme: jekyll-theme-minima
 baseurl: ""
 
 

@@ -101,4 +101,4 @@ Python (Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch) • GCP • Airflow �
 - Passionate about continuous Development in AI/ML
 
 ---
-C/O Ibrahim Ismaila || [GitHub](https://github.com/EngrIBGIT) 2024
+[GitHub](https://github.com/EngrIBGIT) 2024

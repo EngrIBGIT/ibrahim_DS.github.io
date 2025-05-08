@@ -9,6 +9,16 @@
 
 Innovative Data Scientist About 6+ years of experience in machine learning, data analytics, and business intelligence. I specialize in building scalable data-driven solutions using Python, SQL, and cloud platforms. Below you'll find curated project highlights across Data Science, AI, and Data Analysis.
 
+
+I am **Ibrahim Ismaila**, a highly motivated, innovative and results-driven Data Scientist based in **Abuja, Nigeria**, with over **6 years** of professional experience across **Artificial Intelligence**, **machine learning**, **deep learning**, **data analytics**, and **business intelligence**. My career has been driven by a passion for solving real-world problems, improving processes using data, and by a strong commitment to building and scaling intelligent systems that drive measurable business outcomes.
+
+My core technical strengths include **Python, SQL, TensorFlow, PyTorch**, and cloud platforms like **Azure, GCP and AWS**. I've applied these tools across industries—ranging from ad tech and telecommunications to retail and energy—leading to performance optimization, customer retention, and revenue growth. From deploying predictive models and designing scalable ETL pipelines to developing interactive dashboards, I bring a hands-on, end-to-end approach to data science, artificial intelligence and machine learning.
+
+Beyond engineering, I thrive in **collaborative, cross-functional teams**, translating complex analytics into clear, actionable insights for decision-makers. I have also worked as an **AI instructor and tutor**, creating structured, engaging learning materials that simplify complex concepts for diverse audiences. This educational aspect reflects my passion for democratizing knowledge and contributing to the global tech ecosystem.
+
+Whether it's building cutting-edge machine learning models or empowering future AI professionals through education, I am driven to make data science impactful, accessible, and human-centered.
+
+
 ---
 
 
@@ -204,6 +214,7 @@ Python (Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch) • GCP • Airflow �
 - 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/ibrahim-ismaila)  
 - 📁 Portfolio: [GitHub Profile](https://github.com/ENGRIBGIT)
 - 📁 Profile: [Loubby Profile](https://app.loubby.ai/people/profile/670e1f2bd730aa0f62c8c97a)
+- 📁 Profile: [Amdari Profile](https://www.amdari.io/profile/Ibrahim-Ismaila-417)
 
 ---
 

@@ -7,7 +7,7 @@
 
 ## 🧠 About Me
 
-Innovative Data Scientist About 6+ years of experience in machine learning, data analytics, and business intelligence. I specialize in building scalable data-driven solutions using Python, SQL, and cloud platforms. Below you'll find curated project highlights across Data Science, AI, and Data Analysis.
+Innovative Data Scientist About 3+ years of experience in machine learning, data analytics, and business intelligence. I specialize in building scalable data-driven solutions using Python, SQL, and cloud platforms. Below you'll find curated project highlights across Data Science, AI, and Data Analysis.
 
 
 I am **Ibrahim Ismaila**, a highly motivated, innovative and results-driven Data Scientist based in **Abuja, Nigeria**, with over **6 years** of professional experience across **Artificial Intelligence**, **machine learning**, **deep learning**, **data analytics**, and **business intelligence**. My career has been driven by a passion for solving real-world problems, improving processes using data, and by a strong commitment to building and scaling intelligent systems that drive measurable business outcomes.

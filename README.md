@@ -187,6 +187,7 @@ Python (Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch) • GCP • Airflow �
 - [Drive Certificate 2](https://drive.google.com/file/d/1c9Ltiwkzglxy3nV1m-zYSG1AmSeduisf/view?usp=sharing)
 
 ### 🧑‍🎓 Training Platforms
+- **CPN NSQ Skills Cert.** (2025)  
 - **Dataquest.io** (2024)  
 - **Scrimba** (2024)  
 - **Amdari** (2024)  
